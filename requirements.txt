@@ -1,10 +1,14 @@
-pandas
+# Data processing
 numpy
+pandas
+
+# Machine learning
 scikit-learn
-matplotlib
-seaborn
-shap
 xgboost
-openpyxl
+
+# Visualization and network analysis
+matplotlib
 networkx
+
+# Jupyter Notebook
 jupyter
